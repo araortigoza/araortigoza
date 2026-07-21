@@ -2,8 +2,6 @@
 
 ![Header Sakura](banner.png)
 
-# 🌸 ¡Hola! Soy Ara Ortigoza 🌸
-
 </div>
 
 ---
