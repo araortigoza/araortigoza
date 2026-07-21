@@ -10,7 +10,7 @@
 
 ### 📖 Sobre Mí
 
-👋 ¡Bienvenido/a a mi perfil! Soy una apasionada de la tecnología enfocada en transformar ideas en código funcional y escalable. Me fascina entender el "detrás de escena" de las aplicaciones: desde la lógica de servidor hasta la gestión eficiente de datos. 
+👋 ¡Bienvenido/a a mi perfil! Soy una apasionada de la tecnología enfocada en transformar ideas en código funcional. Me fascina entender el "detrás de escena" de las aplicaciones: desde la lógica de servidor hasta la gestión eficiente de datos. 
 
 Siempre estoy en constante aprendizaje, participando en retos técnicos y construyendo proyectos que me permitan poner a prueba nuevas arquitecturas y mejores prácticas.
 
@@ -42,15 +42,15 @@ Siempre estoy en constante aprendizaje, participando en retos técnicos y constr
 
 ### 📂 Proyectos Destacados
 
-🔹 **Tienda de los Pingüinos (The Hatch)**
+🔹 **Tienda de los Pingüinos**
 Desarrollo e implementación de tienda/plataforma enfocada en lógica de negocio e interacción.
 - 🔗 **Repositorio:** [Ver en GitHub](https://github.com/araortigoza/1_Tienda_de_los_Pinguinos_The_Hatch)
 
-🔹 **Autenticación Segura (The Huddle)**
+🔹 **Autenticación Segura**
 Sistema enfocado en seguridad, manejo de usuarios, sesiones y protección de rutas.
 - 🔗 **Repositorio:** [Ver en GitHub](https://github.com/araortigoza/8_Autenticacion_Segura_The_Huddle)
 
-🔹 **Operación Microservicios (The Huddle)**
+🔹 **Operación Microservicios**
 Arquitectura distribuida y servicios interconectados a través de APIs REST.
 - 🔗 **Repositorio:** [Ver en GitHub](https://github.com/araortigoza/6_Operacion_Microservicios_The_Huddle)
 
